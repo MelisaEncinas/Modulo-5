@@ -1,0 +1,10 @@
+arbol 
+sol 
+aire 
+mesa 
+tabla 
+zumo 
+auto 
+tablet
+python 
+atardecer

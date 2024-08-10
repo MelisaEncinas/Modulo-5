@@ -1,0 +1,4 @@
+texto original:
+5 de agosto , ejercicio numero 8
+. 
+Añadire este texto en el archivo python.txt

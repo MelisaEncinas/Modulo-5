@@ -1,0 +1,11 @@
+tren
+auto
+talon
+luze
+viento
+mariposa
+dosis
+
+dos 
+luz
+ola
